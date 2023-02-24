@@ -1,0 +1,22 @@
+.gallery_img_bx img{
+    min-height: 242px;
+}
+.achieve.demo-gallery img,.gall__ery.demo-gallery img {
+    max-height: 208px;
+    object-fit: cover;
+}
+.services_in_bg_img_txt h3,.detaisl_list h3,.job_list h3{
+    text-transform:none !important;
+}
+.service_details ul li {
+    font-size: 16px;
+    color: #63666d;
+    line-height: 28px;
+    font-weight: 400;
+}
+.job_list h3{
+    line-height:28px !important;
+}
+footer ul li a{
+    color: #fff !important;
+}
